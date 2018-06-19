@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"checkJs": true,
+	},
+	"typeRoots": [
+		"node_modules/@types"
+	],
+	"types": [
+		"jasmine",
+		"mocha",
+		"node",
+	],
+	"include": [
+		"node_modules/@types"
+	],
+	"exclude": [
+		"node_modules",
+		"**/node_modules/*",
+	],
+}

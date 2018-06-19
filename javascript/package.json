@@ -1,0 +1,17 @@
+{
+  "name": "exercism-javascript",
+  "version": "1.0.0",
+  "description": "Exercism, JavaScript track",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jasmine": "2.8.8",
+    "@types/mocha": "5.2.2",
+    "@types/node": "10.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Duffey <Brian.E.Duffey@gmail.com> (https://asitewithnoname.com/)",
+  "license": "ISC"
+}
